@@ -48,27 +48,27 @@ Frontend developer building responsive, user-focused interfaces with HTML, CSS, 
 
 ---
 
-## <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="Frontend Mentor" width="18" /> Frontend Mentor Journey
+## Frontend Mentor Journey
 
-🟢 Newbie • 🟡 Junior • 🟠 Intermediate • 🔴 Advanced
+🔵 Newbie • 🟢 Junior • 🟠 Intermediate • 🔴 Advanced
 
-### 🟢 Newbie
+### 🔵 Newbie
 - [QR Code Component](https://github.com/TheReaper02/qr-code-component-main)
 - [Social Links Profile](https://github.com/TheReaper02/social-links-profile-main)
 - [Recipe Page](https://github.com/TheReaper02/recipe-page-main)
 - [Blog Preview Card](https://github.com/TheReaper02/blog-preview-card-main)
 - [Product Preview Card](https://github.com/TheReaper02/Product-Preview-Card)
+- [Testimonials Grid Section](https://github.com/TheReaper02/testimonials-grid-section-main)
+- [Four Card Feature Section](https://github.com/TheReaper02/four-card-feature-section-master)
 
-### 🟡 Junior
-- [Password Generator App](https://github.com/TheReaper02/password-generator-app)
+### 🟢 Junior
 - [Tip Calculator App](https://github.com/TheReaper02/tip-calculator-app-main)
+- [Meet Landing Page](https://github.com/TheReaper02/meet-landing-page)
 - [Newsletter Sign-up Form](https://github.com/TheReaper02/newsletter-sign-up-with-success-message-main)
 - [Time Tracking Dashboard](https://github.com/TheReaper02/time-tracking-dashboard-main)
 
 ### 🟠 Intermediate
-- [Testimonials Grid Section](https://github.com/TheReaper02/testimonials-grid-section-main)
-- [Four Card Feature Section](https://github.com/TheReaper02/four-card-feature-section-master)
-- [Meet Landing Page](https://github.com/TheReaper02/meet-landing-page)
+- [Password Generator App](https://github.com/TheReaper02/password-generator-app)
 
 ### 🔴 Advanced
 - _Coming soon_
