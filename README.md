@@ -48,17 +48,6 @@
 ### 🔴 Advanced
 - _Coming soon_
 
----
-
-## 📈 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheReaper02&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheReaper02&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 - Build more intermediate-level frontend projects
