@@ -1,52 +1,27 @@
-# Hi, I'm Roli 👋
+# 💫 About Me:
+🎯 Focused on frontend development and UI implementation<br>🧩 Building challenge-based projects to sharpen real-world skills<br>📚 Currently improving accessibility, JavaScript architecture, and performance<br>🛠️ Practicing consistent GitHub project structure and documentation<br>
 
-<p align="left">
-  <a href="https://github.com/TheReaper02">
-    <img src="https://komarev.com/ghpvc/?username=TheReaper02&label=Profile%20views&color=0e75b6&style=flat" alt="TheReaper02" />
-  </a>
-</p>
 
-Frontend developer building responsive, user-focused interfaces with HTML, CSS, and JavaScript.
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erdosroland178@gmail.com) 
 
----
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=TheReaper02&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=TheReaper02&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheReaper02&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- 🎯 Focused on frontend development and UI implementation
-- 🧩 Building challenge-based projects to sharpen real-world skills
-- 📚 Currently improving accessibility, JavaScript architecture, and performance
-- 🛠️ Practicing consistent GitHub project structure and documentation
-
----
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TheReaper02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=TheReaper02&icon=2&color=1)](https://visitcount.itsvg.in)
 
-## 📌 Featured Projects
-
-- 🔐 **Password Generator App**  
-  [Live Demo](https://thereaper02.github.io/password-generator-app/) • [Repository](https://github.com/TheReaper02/password-generator-app)
-
-- 💸 **Tip Calculator App**  
-  [Repository](https://github.com/TheReaper02/Tip-Calculator-App)
-
-- ⏱️ **Time Tracking Dashboard**  
-  [Repository](https://github.com/TheReaper02/Time-Tracking-Dashboard)
-
-- 📨 **Newsletter Sign-up Form**  
-  [Repository](https://github.com/TheReaper02/Newsletter-Signup)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Frontend Mentor Journey
 
