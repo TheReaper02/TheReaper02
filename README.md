@@ -38,13 +38,13 @@ Frontend developer building responsive, user-focused interfaces with HTML, CSS, 
   [Live Demo](https://thereaper02.github.io/password-generator-app/) • [Repository](https://github.com/TheReaper02/password-generator-app)
 
 - 💸 **Tip Calculator App**  
-  [Repository](https://github.com/TheReaper02/tip-calculator-app-main)
+  [Repository](https://github.com/TheReaper02/Tip-Calculator-App)
 
 - ⏱️ **Time Tracking Dashboard**  
-  [Repository](https://github.com/TheReaper02/time-tracking-dashboard-main)
+  [Repository](https://github.com/TheReaper02/Time-Tracking-Dashboard)
 
 - 📨 **Newsletter Sign-up Form**  
-  [Repository](https://github.com/TheReaper02/newsletter-sign-up-with-success-message-main)
+  [Repository](https://github.com/TheReaper02/Newsletter-Signup)
 
 ---
 
@@ -53,19 +53,19 @@ Frontend developer building responsive, user-focused interfaces with HTML, CSS, 
 🔵 Newbie • 🟢 Junior • 🟠 Intermediate • 🔴 Advanced
 
 ### 🔵 Newbie
-- [QR Code Component](https://github.com/TheReaper02/qr-code-component-main)
-- [Social Links Profile](https://github.com/TheReaper02/social-links-profile-main)
-- [Recipe Page](https://github.com/TheReaper02/recipe-page-main)
-- [Blog Preview Card](https://github.com/TheReaper02/blog-preview-card-main)
+- [QR Code Component](https://github.com/TheReaper02/QR-Code-Challenge)
+- [Social Links Profile](https://github.com/TheReaper02/Social-Link-Profile)
+- [Recipe Page](https://github.com/TheReaper02/Omelette-Recipe)
+- [Blog Preview Card](https://github.com/TheReaper02/Blog-Preview-Card)
 - [Product Preview Card](https://github.com/TheReaper02/Product-Preview-Card)
-- [Testimonials Grid Section](https://github.com/TheReaper02/testimonials-grid-section-main)
-- [Four Card Feature Section](https://github.com/TheReaper02/four-card-feature-section-main)
+- [Testimonials Grid Section](https://github.com/TheReaper02/Testimonials-Grid-Section)
+- [Four Card Feature Section](https://github.com/TheReaper02/Four-Card-Feature-Section)
 
 ### 🟢 Junior
-- [Tip Calculator App](https://github.com/TheReaper02/tip-calculator-app-main)
-- [Meet Landing Page](https://github.com/TheReaper02/meet-landing-page)
-- [Newsletter Sign-up Form](https://github.com/TheReaper02/newsletter-sign-up-with-success-message-main)
-- [Time Tracking Dashboard](https://github.com/TheReaper02/time-tracking-dashboard-main)
+- [Tip Calculator App](https://github.com/TheReaper02/Tip-Calculator-App)
+- [Meet Landing Page](https://github.com/TheReaper02/Meet-Landing-Page)
+- [Newsletter Sign-up Form](https://github.com/TheReaper02/Newsletter-Signup)
+- [Time Tracking Dashboard](https://github.com/TheReaper02/Time-Tracking-Dashboard)
 
 ### 🟠 Intermediate
 - [Password Generator App](https://github.com/TheReaper02/password-generator-app)
