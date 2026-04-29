@@ -59,7 +59,7 @@ Frontend developer building responsive, user-focused interfaces with HTML, CSS, 
 - [Blog Preview Card](https://github.com/TheReaper02/blog-preview-card-main)
 - [Product Preview Card](https://github.com/TheReaper02/Product-Preview-Card)
 - [Testimonials Grid Section](https://github.com/TheReaper02/testimonials-grid-section-main)
-- [Four Card Feature Section](https://github.com/TheReaper02/four-card-feature-section-master)
+- [Four Card Feature Section](https://github.com/TheReaper02/four-card-feature-section-main)
 
 ### 🟢 Junior
 - [Tip Calculator App](https://github.com/TheReaper02/tip-calculator-app-main)
