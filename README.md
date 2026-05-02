@@ -28,6 +28,7 @@
 🔵 Newbie • 🟢 Junior • 🟠 Intermediate • 🔴 Advanced
 
 ### 🔵 Newbie
+- [FAQ](https://github.com/TheReaper02/FAQ)
 - [Rate Component](https://github.com/TheReaper02/Rating-Component)
 - [QR Code Component](https://github.com/TheReaper02/QR-Code-Challenge)
 - [Social Links Profile](https://github.com/TheReaper02/Social-Link-Profile)
