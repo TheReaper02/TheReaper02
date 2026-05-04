@@ -44,6 +44,7 @@
 - [Newsletter Sign-up Form](https://github.com/TheReaper02/Newsletter-Signup)
 - [Time Tracking Dashboard](https://github.com/TheReaper02/Time-Tracking-Dashboard)
 - [Contact Form](https://github.com/TheReaper02/Contact-Form)
+- [News Webpage](https://github.com/TheReaper02/News-Hompage)
 
 ### 🟠 Intermediate
 - [Password Generator App](https://github.com/TheReaper02/password-generator-app)
