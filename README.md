@@ -28,6 +28,7 @@
 🔵 Newbie • 🟢 Junior • 🟠 Intermediate • 🔴 Advanced
 
 ### 🔵 Newbie
+- [NFT](https://github.com/TheReaper02/NFT-Card)
 - [FAQ](https://github.com/TheReaper02/FAQ)
 - [Rate Component](https://github.com/TheReaper02/Rating-Component)
 - [QR Code Component](https://github.com/TheReaper02/QR-Code-Challenge)
@@ -45,6 +46,7 @@
 - [Time Tracking Dashboard](https://github.com/TheReaper02/Time-Tracking-Dashboard)
 - [Contact Form](https://github.com/TheReaper02/Contact-Form)
 - [News Webpage](https://github.com/TheReaper02/News-Hompage)
+- [Loopstudios Webpage](https://github.com/TheReaper02/LoopStudios)
 
 ### 🟠 Intermediate
 - [Password Generator App](https://github.com/TheReaper02/password-generator-app)
