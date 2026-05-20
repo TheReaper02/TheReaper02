@@ -40,10 +40,10 @@ const robert = {
 
 🔵 Newbie • 🟢 Junior • 🟠 Intermediate • 🔴 Advanced
 
-<div align="center">
+<div align="center" >
   
 ### 🔵 Newbie
-- [NFT](https://github.com/TheReaper02/NFT-Card)
+- [NFT](https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)(https://github.com/TheReaper02/NFT-Card)
 - [FAQ](https://github.com/TheReaper02/FAQ)
 - [Rate Component](https://github.com/TheReaper02/Rating-Component)
 - [QR Code Component](https://github.com/TheReaper02/QR-Code-Challenge)
