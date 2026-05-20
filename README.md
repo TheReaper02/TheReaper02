@@ -10,6 +10,8 @@ const robert = {
   currently:  "Deepening React & backend architecture",
   funFact:    "I debug with console.log and I'm not ashamed 😅"
 };
+
+I first discovered web development through books — frontend, backend, all of it. It didn't stick at first. Lots of failures, and eventually I walked away. But the interest never really left. This year I came back with a clearer head, working through Coursera to build a solid software engineering foundation, then focused heavily on frontend to sharpen my practical skills. Now I'm rounding it out with backend and frameworks — building toward a portfolio I'm genuinely proud of.
 ```
 
 ## 🤝 Connect With Me
