@@ -1,13 +1,14 @@
 # 💫 About Me:
-```
+
+```ts
 const robert = {
   role:       "Full-Stack Software Engineer",
-  location:   "Bristol, ["🇬🇧"],
-  birth:       "Romania, ["🇷🇴"],
-  age:         "26"
+  location:   "Bristol, GB 🇬🇧",
+  birth:      "Romania, RO 🇷🇴",
+  age:        "26",
   focus:      ["Web Applications", "UI/UX", "Scalable Systems"],
   currently:  "Deepening React & backend architecture",
-  funFact:    "I debug with console.log and I'm not ashamed",
+  funFact:    "I debug with console.log and I'm not ashamed 😅",
 };
 ```
 
