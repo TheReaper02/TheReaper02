@@ -8,12 +8,20 @@ const robert = {
   age:         26,
   focus:      ["Web Applications", "UI/UX", "Scalable Systems"],
   currently:  "Deepening React & backend architecture",
-  funFact:    "I debug with console.log and I'm not ashamed 😅",
+  funFact:    "I debug with console.log and I'm not ashamed 😅"
 };
 ```
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erdosroland178@gmail.com) 
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Coming Soon)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](Coming Soon)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)]([https://www.frontendmentor.io/profile/YOUR_USERNAME](https://www.frontendmentor.io/profile/TheReaper02))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](erdosroland178@gmail.com)
+
+</div>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
