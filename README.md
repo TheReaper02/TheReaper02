@@ -5,7 +5,7 @@ const robert = {
   role:       "Full-Stack Software Engineer",
   location:   "Bristol, GB 🇬🇧",
   birth:      "Romania, RO 🇷🇴",
-  age:        "26",
+  age:         26,
   focus:      ["Web Applications", "UI/UX", "Scalable Systems"],
   currently:  "Deepening React & backend architecture",
   funFact:    "I debug with console.log and I'm not ashamed 😅",
@@ -34,8 +34,6 @@ const robert = {
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TheReaper02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -92,6 +90,10 @@ const robert = {
 
 ---
 
-## 🤝 Connect
+div align="center">
 
-- GitHub: [@TheReaper02](https://github.com/TheReaper02)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+
+<sub>⭐ If you find my work useful, consider starring some repos — it means a lot!</sub>
+
+</div>
