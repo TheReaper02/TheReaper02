@@ -1,6 +1,13 @@
 # 💫 About Me:
-🎯 Focused on frontend development and UI implementation<br>🧩 Building challenge-based projects to sharpen real-world skills<br>📚 Currently improving accessibility, JavaScript architecture, and performance<br>🛠️ Practicing consistent GitHub project structure and documentation<br>
-
+```
+const robert = {
+  role:       "Full-Stack Software Engineer",
+  location:   "Bristol, 🇬🇧",
+  focus:      ["Web Applications", "UI/UX", "Scalable Systems"],
+  currently:  "Deepening React & backend architecture",
+  funFact:    "I debug with console.log and I'm not ashamed",
+};
+```
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erdosroland178@gmail.com) 
