@@ -3,7 +3,7 @@
 const robert = {
   role:       "Full-Stack Software Engineer",
   location:   "Bristol, 🇬🇧",
-  birth:       "Romania, RO",
+  birth:       "Romania, 🇷🇴",
   age:         "26"
   focus:      ["Web Applications", "UI/UX", "Scalable Systems"],
   currently:  "Deepening React & backend architecture",
