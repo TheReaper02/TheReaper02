@@ -28,31 +28,11 @@ const robert = {
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheReaper02E&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheReaper02&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheReaper02theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TheReaper02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=TheReaper02&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -60,6 +40,7 @@ const robert = {
 
 🔵 Newbie • 🟢 Junior • 🟠 Intermediate • 🔴 Advanced
 
+<div align="center">
 ### 🔵 Newbie
 - [NFT](https://github.com/TheReaper02/NFT-Card)
 - [FAQ](https://github.com/TheReaper02/FAQ)
@@ -89,7 +70,7 @@ const robert = {
 - [Space Website](https://github.com/TheReaper02/Space-Website)
 ### 🔴 Advanced
 - _Coming soon_
-
+</div>
 ## 🎯 2026 Goals
 
 - Build more intermediate-level frontend projects
