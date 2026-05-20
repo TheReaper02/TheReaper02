@@ -3,6 +3,8 @@
 const robert = {
   role:       "Full-Stack Software Engineer",
   location:   "Bristol, 🇬🇧",
+  birth:       "Romania, RO",
+  age:         "26"
   focus:      ["Web Applications", "UI/UX", "Scalable Systems"],
   currently:  "Deepening React & backend architecture",
   funFact:    "I debug with console.log and I'm not ashamed",
@@ -40,38 +42,46 @@ const robert = {
 
 🔵 Newbie • 🟢 Junior • 🟠 Intermediate • 🔴 Advanced
 
-<div align="center" >
-  
+<div align="center">
+
 ### 🔵 Newbie
-- [NFT](https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)(https://github.com/TheReaper02/NFT-Card)
-- [FAQ](https://github.com/TheReaper02/FAQ)
-- [Rate Component](https://github.com/TheReaper02/Rating-Component)
-- [QR Code Component](https://github.com/TheReaper02/QR-Code-Challenge)
-- [Social Links Profile](https://github.com/TheReaper02/Social-Link-Profile)
-- [Recipe Page](https://github.com/TheReaper02/Omelette-Recipe)
-- [Blog Preview Card](https://github.com/TheReaper02/Blog-Preview-Card)
-- [Product Preview Card](https://github.com/TheReaper02/Product-Preview-Card)
-- [Testimonials Grid Section](https://github.com/TheReaper02/Testimonials-Grid-Section)
-- [Four Card Feature Section](https://github.com/TheReaper02/Four-Card-Feature-Section)
+
+[![FM](https://img.shields.io/badge/NFT_Card-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/NFT-Card) 
+[![FM](https://img.shields.io/badge/FAQ-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/FAQ) 
+[![FM](https://img.shields.io/badge/Rate_Component-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Rating-Component) 
+[![FM](https://img.shields.io/badge/QR_Code-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/QR-Code-Challenge) 
+[![FM](https://img.shields.io/badge/Social_Links-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Social-Link-Profile) 
+[![FM](https://img.shields.io/badge/Recipe_Page-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Omelette-Recipe) 
+[![FM](https://img.shields.io/badge/Blog_Card-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Blog-Preview-Card) 
+[![FM](https://img.shields.io/badge/Product_Card-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Product-Preview-Card) 
+[![FM](https://img.shields.io/badge/Testimonials-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Testimonials-Grid-Section) 
+[![FM](https://img.shields.io/badge/Four_Card-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Four-Card-Feature-Section)
 
 ### 🟢 Junior
-- [Tip Calculator App](https://github.com/TheReaper02/Tip-Calculator-App)
-- [Meet Landing Page](https://github.com/TheReaper02/Meet-Landing-Page)
-- [Newsletter Sign-up Form](https://github.com/TheReaper02/Newsletter-Signup)
-- [Time Tracking Dashboard](https://github.com/TheReaper02/Time-Tracking-Dashboard)
-- [Contact Form](https://github.com/TheReaper02/Contact-Form)
-- [News Webpage](https://github.com/TheReaper02/News-Hompage)
-- [Loopstudios Webpage](https://github.com/TheReaper02/LoopStudios)
+
+[![FM](https://img.shields.io/badge/Tip_Calculator-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Tip-Calculator-App)
+[![FM](https://img.shields.io/badge/Meet_Landing-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Meet-Landing-Page)
+[![FM](https://img.shields.io/badge/Newsletter-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Newsletter-Signup) 
+[![FM](https://img.shields.io/badge/Time_Tracking-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Time-Tracking-Dashboard) 
+[![FM](https://img.shields.io/badge/Contact_Form-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Contact-Form) 
+[![FM](https://img.shields.io/badge/News_Page-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/News-Hompage) 
+[![FM](https://img.shields.io/badge/Loopstudios-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/LoopStudios)
 
 ### 🟠 Intermediate
-- [Password Generator App](https://github.com/TheReaper02/password-generator-app)
-- [Ecommerce Webpage](https://github.com/TheReaper02/Ecommerce-Webpage)
-- [Room Webpage](https://github.com/TheReaper02/Room-Webpage)
-- [Bookmark Webpage](https://github.com/TheReaper02/Bookmark-Webpage)
-- [Space Website](https://github.com/TheReaper02/Space-Website)
+
+[![FM](https://img.shields.io/badge/Password_Generator-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/password-generator-app)
+[![FM](https://img.shields.io/badge/Ecommerce-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Ecommerce-Webpage)
+[![FM](https://img.shields.io/badge/Room_Page-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Room-Webpage) 
+[![FM](https://img.shields.io/badge/Bookmark-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Bookmark-Webpage) 
+[![FM](https://img.shields.io/badge/Space_Website-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Space-Website)
+
 ### 🔴 Advanced
-- _Coming soon_
+
+![Soon](https://img.shields.io/badge/Coming_Soon-grey?style=flat-square)
+
 </div>
+
+
 ## 🎯 2026 Goals
 
 - Build more intermediate-level frontend projects
