@@ -11,10 +11,9 @@ const robert = {
   funFact:    "I debug with console.log and I'm not ashamed 😅"
 };
 
-I first discovered web development through books — frontend, backend, all of it. It didn't stick at first. Lots of failures, and
-eventually I walked away. But the interest never really left. This year I came back with a clearer head, working through Coursera
-to build a solid software engineering foundation, then focused heavily on frontend to sharpen my practical skills.
-Now I'm rounding it out with backend and frameworks — building toward a portfolio I'm genuinely proud of.
+Self-taught engineer who started with books, hit walls, stepped back, and came back harder. Rebuilt my
+foundation through Coursera, sharpened my frontend through real projects, and now going deep on backend
+and JS frameworks — all working toward a portfolio that proves what I can build.
 ```
 
 ## 🤝 Connect With Me
