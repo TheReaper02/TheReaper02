@@ -41,6 +41,7 @@ const robert = {
 🔵 Newbie • 🟢 Junior • 🟠 Intermediate • 🔴 Advanced
 
 <div align="center">
+  
 ### 🔵 Newbie
 - [NFT](https://github.com/TheReaper02/NFT-Card)
 - [FAQ](https://github.com/TheReaper02/FAQ)
