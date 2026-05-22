@@ -67,7 +67,7 @@ and JS frameworks — all working toward a portfolio that proves what I can buil
 [![FM](https://img.shields.io/badge/Product_Card-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Product-Preview-Card) 
 [![FM](https://img.shields.io/badge/Testimonials-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Testimonials-Grid-Section) 
 [![FM](https://img.shields.io/badge/Four_Card-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Four-Card-Feature-Section)
-[![FM](https://img.shields.io/badge/Results-Summary-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Results-Summary)
+[![FM](https://img.shields.io/badge/Results Summary-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Results-Summary)
 
 ### 🟢 Junior
 
