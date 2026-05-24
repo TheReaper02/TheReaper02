@@ -78,6 +78,7 @@ and JS frameworks — all working toward a portfolio that proves what I can buil
 [![FM](https://img.shields.io/badge/Contact_Form-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Contact-Form) 
 [![FM](https://img.shields.io/badge/News_Page-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/News-Hompage) 
 [![FM](https://img.shields.io/badge/Loopstudios-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/LoopStudios)
+[![FM](https://img.shields.io/badge/Desserts_List-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Desserts-List)
 
 ### 🟠 Intermediate
 
