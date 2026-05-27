@@ -91,7 +91,7 @@ and JS frameworks — all working toward a portfolio that proves what I can buil
 
 ### 🔴 Advanced
 
-![Soon](https://img.shields.io/badge/Coming_Soon-grey?style=flat-square)
+[![FM](https://img.shields.io/badge/REST_Countries-3F54A3?style=flat-square)](https://github.com/TheReaper02/REST-API-Countries)
 
 </div>
 
