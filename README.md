@@ -99,10 +99,11 @@ and JS frameworks — all working toward a portfolio that proves what I can buil
 
 ## 🎯 2026 Goals
 
-- Build more intermediate-level frontend projects
-- Add React + API-based projects to portfolio
-- Improve accessibility scores across all projects
-- Keep every repository polished (README, screenshot, live link, topics)
+- Build more intermediate-level frontend projects (5/5) ✅
+- Add React + API-based projects to portfolio ⏳
+- Improve accessibility scores across all projects ⏳
+- Keep every repository polished (README, screenshot, live link, topics) ⏳
+- Build more advanced-level frontend projects (2/5) ⏳
 
 ---
 
