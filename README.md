@@ -92,6 +92,7 @@ and JS frameworks — all working toward a portfolio that proves what I can buil
 ### 🔴 Advanced
 
 [![FM](https://img.shields.io/badge/REST_Countries-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/REST-API-Countries)
+[![FM](https://img.shields.io/badge/Entertainment_App-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://github.com/TheReaper02/Entertainment-App)
 
 </div>
 
